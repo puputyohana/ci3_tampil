@@ -10,7 +10,7 @@
 		<h1 class="page-header text-center">Data Pegawai PT. JayaWijaya</h1>
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2">
-			<a class="btn btn-primary"><span class="glyphicon glyphicon-plus"></span> Add New </a><br><br>
+			<a href= "<?php echo base_url(); ?>index.php/tampil/addnew" class="btn btn-primary"><span class="glyphicon glyphicon-plus"></span> Add New </a><br><br>
 
 			<table class="table table-bordered table-striped">
 				<thead>
